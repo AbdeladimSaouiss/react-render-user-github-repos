@@ -9,7 +9,10 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "react-waypoint": "^9.0.3",
+    "styled-components": "^5.2.1",
+    "styled-reset": "^4.3.4"
   },
   "scripts": {
     "start": "react-scripts start",
